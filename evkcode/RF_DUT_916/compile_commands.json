@@ -1,0 +1,530 @@
+[
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/main.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/profile.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/my_ring_buffer.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/pulse_test_gpio.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/uart_golden_DUT.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/rf_test.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/noos_impl.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/raw_pkt.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/filter.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./src/startup_ing91600.s"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/bundles/noos_extension/ING9168xx/symdefs.m"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/BSP/eflash.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_adc.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_gpio.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_i2c.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_pinctrl.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_pwm.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_rtc.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_ssp.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_sysctrl.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_timer.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_uart.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_comparator.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_dma.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_efuse.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_i2s.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_ir.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_keyscan.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_pdm.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_pte.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_qdec.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/FWlib/peripheral_usb.c"
+    },
+    {
+        "arguments": [
+            "-c",
+            "-D__GNUC__",
+            "-Isdk/bundles/noos_extension/inc",
+            "-Isdk/bundles/noos_extension/inc/os",
+            "-Isdk/src/BSP",
+            "-Isdk/src/FWlib",
+            "-Isdk/src/StartUP/ing916",
+            "-Isdk/src/Tools",
+            "-Isdk/src",
+            "-DUSE_STDPERIPH_DRIVER"
+        ],
+        "directory": "F:/0-GitHub/012-RF_Tester_golden_9188/EvkRFTester/01-code/RF_DUT_916",
+        "file": "./sdk/src/Tools/trace.c"
+    }
+]
